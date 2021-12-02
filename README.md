@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankitsh-rtx
 - 👀 I’m interested in Android Dev , Cloud Computing ,etc.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Android Dev
 - 📫 How to reach me at XtR.Legion@gmail.com
 
 <!---
