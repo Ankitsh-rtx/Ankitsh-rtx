@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ankitsh-rtx
-- 👀 I’m interested in Android Dev , Cloud Computing ,etc.
+- 👀 I’m interested in Android Dev , Cloud Computing ,ML .
 - 🌱 I’m currently learning Android Dev
 - 📫 How to reach me at ankitshaw1112@gmail.com
 
