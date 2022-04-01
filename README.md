@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @Ankitsh-rtx
-- 👀 I’m interested in Android Dev , Cloud Computing ,ML .
-- 🌱 I’m currently learning Android Dev
-- 📫 How to reach me at ankitshaw1112@gmail.com
+## 🚀 About Me
+I'm a Ankit Shaw from Kolkata, WB.
+I'm a Native Android Developer 
+interested in Cross Platform Development,
+Cloud Computing, AI, ML...
+
+
+## 🛠 Skills
+C/C++, 
+Java, 
+Firebase, Android Studio...
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iam-ankit-shaw/)
+
 
 <!---
 Ankitsh-rtx/Ankitsh-rtx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
