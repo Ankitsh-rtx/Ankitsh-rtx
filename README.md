@@ -6,9 +6,8 @@ Cloud Computing, AI, ML...
 
 
 ## 🛠 Skills
-C/C++, 
-Java, 
-Firebase, Android Studio...
+C, Java, Kotlin
+Firebase, Android Studio, SQL, Room
 
 
 ## 🔗 Links
