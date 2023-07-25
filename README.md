@@ -18,7 +18,7 @@ I'm a passionate Android developer with a keen interest in creating cutting-edge
 
 ### Project 1: CryptoTrackr
 
-![CryptoTrackr](https://example.com/crypto_trackr.png)
+![CryptoTrackr]([https://example.com/crypto_trackr.png](https://github.com/Ankitsh-rtx/CoinTrackr))
 
 CryptoTrackr is an Android application that allows users to track the latest cryptocurrency prices and trends. It fetches real-time data from various exchanges and presents it in a user-friendly manner using interactive charts and graphs.
 
