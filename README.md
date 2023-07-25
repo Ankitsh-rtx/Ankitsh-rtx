@@ -30,6 +30,6 @@ The Grocery App helps users create and manage a grocery shopping list, ensuring 
 
 ## Get in Touch 📫
 
-I'm always open to collaborating on interesting Android projects and discussing new ideas. If you'd like to connect or have any questions, feel free to reach out to me via [email](mailto:youremail@example.com) or find me on [LinkedIn](https://www.linkedin.com/in/your_username/).
+I'm always open to collaborating on interesting Android projects and discussing new ideas. If you'd like to connect or have any questions, feel free to reach out to me via [email](mailto:ankitshaw1112@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/imankitshaw/).
 
 Let's build something amazing together! 🚀
