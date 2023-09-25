@@ -11,8 +11,9 @@ I'm a passionate Android developer with a keen interest in creating cutting-edge
 - Android Development 📱: Android Studio, Android SDK (LiveData, ViewModel, Room, etc.)
 - UI/UX Design 🎨: XML Layouts, Material Design
 - Networking 🌐: Retrofit, OkHttp
-- Database 🗄️: SQLite, Room
+- Database 🗄️: SQLite, Room, Firebase Firestore 
 - Version Control 🔄: Git
+- Tools ⚙️: Glide 
 - Other 📚: JSON, RESTful APIs, Firebase
 
 
